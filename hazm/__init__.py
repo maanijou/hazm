@@ -11,8 +11,10 @@ from .DadeganReader import DadeganReader
 from .TreebankReader import TreebankReader
 from .WikipediaReader import WikipediaReader
 from .SentiPersReader import SentiPersReader
+from .DegarbayanReader import DegarbayanReader
 from .QuranCorpusReader import QuranCorpusReader
 from .TNewsReader import TNewsReader
+from .MirasTextReader import MirasTextReader
 from .Normalizer import Normalizer
 from .InformalNormalizer import InformalNormalizer, InformalLemmatizer
 from .Stemmer import Stemmer
